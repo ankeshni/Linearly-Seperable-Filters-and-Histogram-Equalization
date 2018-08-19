@@ -1,2 +1,3 @@
 # Linearly-Seperable-Filters-and-Histogram-Equalization
-[Contribution guidelines for this project](Description.pdf)
+[Description](Description.pdf)
+[Results](PA1-CVIP.pdf)
